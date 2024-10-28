@@ -23,7 +23,7 @@ const Hero = () => {
            outerAlpha={0}
           
            innerStyle={{
-             backgroundColor: 'black'
+             backgroundColor: 'white'
            }}
            outerStyle={{
              border: '2px solid black'

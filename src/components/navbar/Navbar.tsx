@@ -4,7 +4,7 @@ import { Button } from "../ui/button";
 
 const Navbar = () => {
   return (
-    <header className="p-4 bg-white sticky top-0 dark:bg-white text-slate-700 w-full mx-auto z-50">
+    <header className="p-4 bg-white sticky top-0 dark:bg-background  text-slate-700 w-full mx-auto z-50">
       <div className="flex md:w-4/6 w-full container justify-between h-16 mx-auto">
         <a
           rel="noopener noreferrer"
